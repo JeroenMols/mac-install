@@ -17,6 +17,7 @@ brew cask install cheatsheet
 #brew cask install go2shell
 brew cask install vlc
 brew cask install the-unarchiver
+brew cask install spotify
 
 # Terminals
 
